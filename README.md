@@ -1,0 +1,27 @@
+# 📈 Stock Market Tracker
+
+A simple **Python Tkinter** application to track real-time stock market data using the **Yahoo Finance API**.  
+This project allows users to enter a stock ticker symbol (like `AAPL`, `TSLA`, `RELIANCE.NS`) and instantly fetch the latest price, daily high, daily low, and percentage change.
+
+---
+
+## 🚀 Features
+- ✅ Real-time stock price fetching
+- ✅ Shows **Day High**, **Day Low**, and **Change %**
+- ✅ Simple and clean **Tkinter GUI**
+- ✅ Works with **Indian & Global stocks**
+- ✅ Built with **Python** and **yfinance** library
+
+
+💡 How It Works
+Enter a stock ticker (Example: AAPL for Apple, TSLA for Tesla, RELIANCE.NS for Reliance Industries).
+
+Click Get Price.
+
+The app fetches data from Yahoo Finance and displays:
+
+Current price
+
+Day's high & low
+
+Percentage change from previous close
